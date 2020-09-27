@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/istio-sample.iml" filepath="$PROJECT_DIR$/istio-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/op-book-service/op-book-service.iml" filepath="$PROJECT_DIR$/op-book-service/op-book-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/op-order-service/op-order-service.iml" filepath="$PROJECT_DIR$/op-order-service/op-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/op-user-service/op-user-service.iml" filepath="$PROJECT_DIR$/op-user-service/op-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/op-web/op-web.iml" filepath="$PROJECT_DIR$/op-web/op-web.iml" />
+    </modules>
+  </component>
+</project>
